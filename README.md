@@ -1,5 +1,5 @@
-# Apptrends-notebook
-app trends analysis on trending app in playstore 
+## Apptrends-notebook
+# App trends analysis on trending app in playstore 
 
 ![output_13_1](https://user-images.githubusercontent.com/104635627/168319482-f7ed7a1b-0978-4db7-a438-49112a3395cd.png)
 
